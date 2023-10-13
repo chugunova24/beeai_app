@@ -77,20 +77,20 @@ docker-compose build --no-cache django && docker-compose up -d
 
 2. Создайте новый сервер, назовите его <b>beeai_server</b> например:
 
-<img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/create_server.png" style="width:70%;height:70%"/>
+<img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/create_server.png" style="width:60%;height:60%"/>
 
 3. Создайте новое подключение к нашей базе данных Postgres. В поле hostname введите <b>postgres_beeai</b>,
 в username введите <b>postgres</b>, в поле password <b>123456</b>:
 
 
-<img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/connect_db.png" style="width:70%;height:70%"/>
+<img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/connect_db.png" style="width:60%;height:60%"/>
 
 4. Результат:
 
-<img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/pg_result.png" style="width:70%;height:70%"/>
+<img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/pg_result.png" style="width:60%;height:60%"/>
 
 
 # Спасибо за внимание! <a name="Thanks"></a>
 
-<img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/MkK1g1ban9d1A9N04A.gif" style="width:70%;height:70%"/>
+<img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/MkK1g1ban9d1A9N04A.gif" style="width:50%;height:50%"/>
 
