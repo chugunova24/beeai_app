@@ -91,6 +91,6 @@ docker-compose build --no-cache django && docker-compose up -d
 
 
 # Спасибо за внимание! <a name="Thanks"></a>
-<p align="center">
+<div style="text-align:center">
 <img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/MkK1g1ban9d1A9N04A.gif" style="width:50%;height:50%"/>
-</p>
+</div>
