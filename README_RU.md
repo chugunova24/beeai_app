@@ -63,32 +63,39 @@ docker-compose build --no-cache django && docker-compose up -d
 таблица базы данных будет пуста:
 
 
-
+<p align="center">
 <img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/postman_null.png" />
+</p>
 
 2. Попробуйте отправить еще один POST запрос с такими же свойствами. Тереперь
 сервер вернет последний (от предыдущего запроса) вопрос из БД:
 
-![Image alt](https://github.com/chugunova24/beeai_app/blob/master/img_readme/postman_result.png)
+<p align="center">
+<img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/postman_result.png" />
+</p>
 
 # Дополнительно: графический интерфейс PgAdmin4 <a name="Addition-PgAdmin"></a>
 
 1. Перейдите по ссылке http://0.0.0.0:5050/ в браузере. Авторизуйтесь под логином <b>t.chugunova24@gmail.com</b> и паролем <b>123456</b>:
 
 2. Создайте новый сервер, назовите его <b>beeai_server</b> например:
-
+   
+<p align="center">
 <img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/create_server.png" style="width:60%;height:60%"/>
+</p>
 
 3. Создайте новое подключение к нашей базе данных Postgres. В поле hostname введите <b>postgres_beeai</b>,
 в username введите <b>postgres</b>, в поле password <b>123456</b>:
 
-
+<p align="center">
 <img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/connect_db.png" style="width:60%;height:60%"/>
+</p>
 
 4. Результат:
-
+   
+<p align="center">
 <img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/pg_result.png" style="width:60%;height:60%"/>
-
+</p>
 
 # Спасибо за внимание! <a name="Thanks"></a>
 <p align="center">
