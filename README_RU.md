@@ -64,7 +64,7 @@ docker-compose build --no-cache django && docker-compose up -d
 
 
 
-<img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/postman_null.png" width="1007" height="408">
+<img src="https://github.com/chugunova24/beeai_app/blob/master/img_readme/postman_null.png" width="700" height="700">
 
 2. Попробуйте отправить еще один POST запрос с такими же свойствами. Тереперь
 сервер вернет последний (от предыдущего запроса) вопрос из БД:
