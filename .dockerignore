@@ -1,0 +1,4 @@
+*.md
+pgadmin
+pg-data
+env
