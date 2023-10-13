@@ -54,8 +54,4 @@ services:
 networks:
     dockernet:
 
-volumes:
-  redis_volume_data:
-  redis_insight_volume_data:
-  redis_conf:
 
