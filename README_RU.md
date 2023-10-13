@@ -62,7 +62,7 @@ docker-compose build --no-cache django && docker-compose up -d
 "Send". Самый первый запрос к серверу вернет пустой объект, так как 
 таблица базы данных будет пуста:
 
-![Image alt](https://github.com/chugunova24/beeai_app/blob/master/img_readme/postman_null.png)
+<img src="[http://url.to/image.png](https://github.com/chugunova24/beeai_app/blob/master/img_readme/postman_null.png)" width="200" height="200">
 
 2. Попробуйте отправить еще один POST запрос с такими же свойствами. Тереперь
 сервер вернет последний (от предыдущего запроса) вопрос из БД:
