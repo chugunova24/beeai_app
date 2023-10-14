@@ -18,7 +18,7 @@ beeai_app - это мини-сервис, который принимает на
 
 - Веб-фреймворк - [Django](https://www.djangoproject.com/)
 - REST framework - [Django Rest Framework](https://www.django-rest-framework.org/)
-- Инструмент управления для зависимости в Python - [Poetry](https://python-poetry.org/)
+- Инструмент для управления зависимостями в Python - [Poetry](https://python-poetry.org/)
 - Объектно-реляционная СУБД - [PostreSQL](https://www.postgresql.org/)
 - Графический интерфейс к PostgreSQL - [Pgadmin4](https://www.pgadmin.org/download/)
 - Платформа для контейнеризации - [Docker](https://www.docker.com/)
